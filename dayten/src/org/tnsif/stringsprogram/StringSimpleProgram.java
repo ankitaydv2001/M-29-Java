@@ -15,7 +15,7 @@ public class StringSimpleProgram {
 		System.out.println("Using new keyword: " +str2);
 		
 		/*when the string is created using new keyword and 
-		 * both the strings are sameit will create a memory for that string
+		 * both the strings are same it will create a memory for that string
 		 * and using == we will be getting different (false)
 		 */
 		System.out.println(str1==str2);
